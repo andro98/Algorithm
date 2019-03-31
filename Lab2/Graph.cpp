@@ -55,3 +55,4 @@ Graph::~Graph()
 {
 	delete[] graph;
 }
+
