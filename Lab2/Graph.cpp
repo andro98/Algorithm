@@ -21,15 +21,18 @@ void Graph::add(int v, int e)
 
 void Graph::print()
 {
+	//Initialize matrix
 	int** matrix = new int*[nodes];
 	for (int i = 0; i < nodes; i++)
 		matrix[i] = new int[nodes];
 
+	//given values 0
 	for (int i = 0; i < nodes; i++) {
 		for (int j = 0; j < nodes; j++) {
 			 matrix[i][j] = 0;
 		}
 	}
+
 
 	for (int i = 0; i < nodes; i++) {
 		vector<int> list = graph[i];
