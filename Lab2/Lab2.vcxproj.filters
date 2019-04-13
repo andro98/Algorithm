@@ -15,19 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="KMST.cpp">
+    <ClCompile Include="Edit Distance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Knapsack.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="KMST.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Knapsack.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
