@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Edit Distance.cpp">
+    <ClCompile Include="PresidentsOffice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
