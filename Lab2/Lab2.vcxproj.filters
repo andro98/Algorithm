@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Fence.cpp">
+    <ClCompile Include="Sort the Array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
